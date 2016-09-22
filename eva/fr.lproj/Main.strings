@@ -1,0 +1,318 @@
+
+/* Class = "IBUIButton"; normalTitle = "edit video"; ObjectID = "1CJ-PO-SMg"; */
+"1CJ-PO-SMg.normalTitle" = "edit video";
+
+/* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "1PS-MD-en1"; */
+"1PS-MD-en1.title" = "Settings";
+
+/* Class = "IBUILabel"; text = "password"; ObjectID = "1Re-0O-dlU"; */
+"1Re-0O-dlU.text" = "password";
+
+/* Class = "IBUISegmentedControl"; 2Ri-85-qZd.segmentTitles[0] = "Facebook"; ObjectID = "2Ri-85-qZd"; */
+"2Ri-85-qZd.segmentTitles[0]" = "Facebook";
+
+/* Class = "IBUISegmentedControl"; 2Ri-85-qZd.segmentTitles[1] = "Twitter"; ObjectID = "2Ri-85-qZd"; */
+"2Ri-85-qZd.segmentTitles[1]" = "Twitter";
+
+/* Class = "IBUISegmentedControl"; 2Ri-85-qZd.segmentTitles[2] = "Contacts"; ObjectID = "2Ri-85-qZd"; */
+"2Ri-85-qZd.segmentTitles[2]" = "Contacts";
+
+/* Class = "IBUISegmentedControl"; 36e-dO-0nG.segmentTitles[0] = "tags"; ObjectID = "36e-dO-0nG"; */
+"36e-dO-0nG.segmentTitles[0]" = "tags";
+
+/* Class = "IBUISegmentedControl"; 36e-dO-0nG.segmentTitles[1] = "users"; ObjectID = "36e-dO-0nG"; */
+"36e-dO-0nG.segmentTitles[1]" = "users";
+
+/* Class = "IBUIButton"; normalTitle = "contact"; ObjectID = "3w5-9s-KLj"; */
+"3w5-9s-KLj.normalTitle" = "contact";
+
+/* Class = "IBUITextField"; placeholder = "username or email"; ObjectID = "473-RP-ope"; */
+"473-RP-ope.placeholder" = "username or email";
+
+/* Class = "IBUIButton"; normalTitle = "FOLLOW "; ObjectID = "4Lp-yG-SNE"; */
+"4Lp-yG-SNE.normalTitle" = "FOLLOW ";
+
+/* Class = "IBUIButton"; normalTitle = "unfollow"; ObjectID = "5FO-EW-oZy"; */
+"5FO-EW-oZy.normalTitle" = "following";
+
+/* Class = "IBUIButton"; normalTitle = "help"; ObjectID = "6Qc-s7-7PL"; */
+"6Qc-s7-7PL.normalTitle" = "help";
+
+/* Class = "IBUIButton"; normalTitle = "#trendinguser"; ObjectID = "6a8-lp-KOv"; */
+"6a8-lp-KOv.normalTitle" = "#trendinguser";
+
+/* Class = "IBUITextField"; placeholder = "search eva"; ObjectID = "7Ba-WV-nzo"; */
+"7Ba-WV-nzo.placeholder" = "search eva";
+
+/* Class = "IBUILabel"; text = "Twitter sharing"; ObjectID = "7YQ-Ru-d9a"; */
+"7YQ-Ru-d9a.text" = "Twitter sharing";
+
+/* Class = "IBUIButton"; normalTitle = "edit videos"; ObjectID = "8pg-g5-1fX"; */
+"8pg-g5-1fX.normalTitle" = "edit videos";
+
+/* Class = "IBUILabel"; text = "upload profile image"; ObjectID = "9A7-fH-vbq"; */
+"9A7-fH-vbq.text" = "upload profile image";
+
+/* Class = "IBUIButton"; normalTitle = "terms & conditions"; ObjectID = "Afs-re-LhE"; */
+"Afs-re-LhE.normalTitle" = "terms & conditions";
+
+/* Class = "IBUILabel"; text = "my feed player"; ObjectID = "CIX-ZX-VeU"; */
+"CIX-ZX-VeU.text" = "my feed player";
+
+/* Class = "IBUIButton"; normalTitle = "#trendingtag"; ObjectID = "CJT-0g-lMB"; */
+"CJT-0g-lMB.normalTitle" = "#trendingtag";
+
+/* Class = "IBUIButton"; normalTitle = "done"; ObjectID = "Clu-4v-jHh"; */
+"Clu-4v-jHh.normalTitle" = "done";
+
+/* Class = "IBUIButton"; normalTitle = "Invite All"; ObjectID = "Cqw-Ys-ctS"; */
+"Cqw-Ys-ctS.normalTitle" = "Invite All";
+
+/* Class = "IBUILabel"; text = "Open eva in camera mode"; ObjectID = "D84-UM-SAL"; */
+"D84-UM-SAL.text" = "Open eva in camera mode";
+
+/* Class = "IBUIButton"; normalTitle = "Done"; ObjectID = "EPz-Bs-g4q"; */
+"EPz-Bs-g4q.normalTitle" = "Done";
+
+/* Class = "IBUIButton"; normalTitle = "next"; ObjectID = "EXz-5h-o1P"; */
+"EXz-5h-o1P.normalTitle" = "next";
+
+/* Class = "IBUIButton"; normalTitle = "add profile image"; ObjectID = "GTg-uS-Vfk"; */
+"GTg-uS-Vfk.normalTitle" = "add profile image";
+
+/* Class = "IBUIButton"; normalTitle = "profile image"; ObjectID = "HEP-N5-V3F"; */
+"HEP-N5-V3F.normalTitle" = "profile image";
+
+/* Class = "IBUITextField"; placeholder = "username"; ObjectID = "HLZ-vB-cU4"; */
+"HLZ-vB-cU4.placeholder" = "username";
+
+/* Class = "IBUILabel"; text = "Email notifications"; ObjectID = "IKM-hc-yXc"; */
+"IKM-hc-yXc.text" = "Email notifications";
+
+/* Class = "IBUILabel"; text = "friends feed player"; ObjectID = "IRh-ie-iH1"; */
+"IRh-ie-iH1.text" = "friends feed player";
+
+/* Class = "IBUILabel"; text = "TRENDING USERS"; ObjectID = "IpH-2A-kLv"; */
+"IpH-2A-kLv.text" = "TRENDING USERS";
+
+/* Class = "IBUILabel"; text = "email@email.com"; ObjectID = "Iv5-X9-JYe"; */
+"Iv5-X9-JYe.text" = "email@email.com";
+
+/* Class = "IBUIBarButtonItem"; title = "edit"; ObjectID = "JIr-rF-dix"; */
+"JIr-rF-dix.title" = "edit";
+
+/* Class = "IBUIButton"; normalTitle = "share"; ObjectID = "KNS-rc-GMt"; */
+"KNS-rc-GMt.normalTitle" = "share";
+
+/* Class = "IBUILabel"; text = "Please login to eva to add a social account to login - this is shown if a user tries to login using facebook and already has an account with that email"; ObjectID = "MBa-aY-NMs"; */
+"MBa-aY-NMs.text" = "Please login to eva to add a social account to login - this is shown if a user tries to login using facebook and already has an account with that email";
+
+/* Class = "IBUILabel"; text = "Instagram "; ObjectID = "NTS-jA-lIY"; */
+"NTS-jA-lIY.text" = "Instagram ";
+
+/* Class = "IBUIButton"; normalTitle = "#trendinguser"; ObjectID = "OXh-Fe-Sb5"; */
+"OXh-Fe-Sb5.normalTitle" = "#trendinguser";
+
+/* Class = "IBUIButton"; normalTitle = "done"; ObjectID = "Pp3-9k-Zs0"; */
+"Pp3-9k-Zs0.normalTitle" = "done";
+
+/* Class = "IBUILabel"; text = "jens wikholm"; ObjectID = "QVI-22-XdB"; */
+"QVI-22-XdB.text" = "jens wikholm";
+
+/* Class = "IBUIButton"; normalTitle = "edit profile image"; ObjectID = "Qgh-F8-NUH"; */
+"Qgh-F8-NUH.normalTitle" = "edit profile image";
+
+/* Class = "IBUILabel"; text = "@username"; ObjectID = "SNt-v5-gM4"; */
+"SNt-v5-gM4.text" = "@username";
+
+/* Class = "IBUILabel"; text = "this view gets loaded over playerview if user taps on the head in timeline. this stops the video playing and instead shows a collection view where you can browse users from timeline and follow them or play their feed in a popup player."; ObjectID = "SeZ-dM-Eaj"; */
+"SeZ-dM-Eaj.text" = "this view gets loaded over playerview if user taps on the head in timeline. this stops the video playing and instead shows a collection view where you can browse users from timeline and follow them or play their feed in a popup player.";
+
+/* Class = "IBUITextField"; placeholder = "password"; ObjectID = "T6e-ZI-lct"; */
+"T6e-ZI-lct.placeholder" = "password";
+
+/* Class = "IBUILabel"; text = "@jenswikholm"; ObjectID = "TIu-fh-g5M"; */
+"TIu-fh-g5M.text" = "@jenswikholm";
+
+/* Class = "IBUINavigationItem"; title = "Find Friends"; ObjectID = "TNx-Ut-NKx"; */
+"TNx-Ut-NKx.title" = "Find Friends";
+
+/* Class = "IBUIBarButtonItem"; title = "Done"; ObjectID = "TnR-5h-c4M"; */
+"TnR-5h-c4M.title" = "Done";
+
+/* Class = "IBUINavigationItem"; title = "My Videos"; ObjectID = "ToI-k9-6NW"; */
+"ToI-k9-6NW.title" = "My Videos";
+
+/* Class = "IBUILabel"; text = "@username"; ObjectID = "U8x-UQ-HJK"; */
+"U8x-UQ-HJK.text" = "@username";
+
+/* Class = "IBUILabel"; text = "notifications"; ObjectID = "UVN-2Q-her"; */
+"UVN-2Q-her.text" = "notifications";
+
+/* Class = "IBUIButton"; normalTitle = "add account"; ObjectID = "Ueh-6y-chd"; */
+"Ueh-6y-chd.normalTitle" = "add account";
+
+/* Class = "IBUIButton"; normalTitle = "exit"; ObjectID = "Vjb-lf-0cv"; */
+"Vjb-lf-0cv.normalTitle" = "exit";
+
+/* Class = "IBUITextField"; placeholder = "password"; ObjectID = "WlT-9f-hdi"; */
+"WlT-9f-hdi.placeholder" = "password";
+
+/* Class = "IBUIButton"; normalTitle = "cancel"; ObjectID = "Wrb-ky-Duc"; */
+"Wrb-ky-Duc.normalTitle" = "cancel";
+
+/* Class = "IBUIButton"; normalTitle = "done"; ObjectID = "XhX-Uf-Hcs"; */
+"XhX-Uf-Hcs.normalTitle" = "done";
+
+/* Class = "IBUIButton"; normalTitle = "#trendingtag"; ObjectID = "XnS-bL-Pmj"; */
+"XnS-bL-Pmj.normalTitle" = "#trendingtag";
+
+/* Class = "IBUITextField"; placeholder = "password"; ObjectID = "Y46-4G-KHe"; */
+"Y46-4G-KHe.placeholder" = "password";
+
+/* Class = "IBUIBarButtonItem"; title = "done"; ObjectID = "YI0-yf-AvW"; */
+"YI0-yf-AvW.title" = "exit";
+
+/* Class = "IBUILabel"; text = "Facebook sharing"; ObjectID = "ZAN-LX-jXV"; */
+"ZAN-LX-jXV.text" = "Facebook sharing";
+
+/* Class = "IBUITextField"; placeholder = "email "; ObjectID = "ZvR-5y-Zrt"; */
+"ZvR-5y-Zrt.placeholder" = "email ";
+
+/* Class = "IBUILabel"; text = "comments"; ObjectID = "Zzn-Zz-2Cw"; */
+"Zzn-Zz-2Cw.text" = "comments";
+
+/* Class = "IBUITextField"; placeholder = "username or email"; ObjectID = "aOG-nv-ygd"; */
+"aOG-nv-ygd.placeholder" = "username or email";
+
+/* Class = "IBUIViewController"; title = "Edit Video"; ObjectID = "aOw-HN-qp5"; */
+"aOw-HN-qp5.title" = "Edit Video";
+
+/* Class = "IBUILabel"; text = "shown if user has never  opened app before - this is player view with swipe left to skip though 4 movies. skip will take user to evafeedVC - set flag in app for user logged in + user seen intro"; ObjectID = "akl-sd-Uvn"; */
+"akl-sd-Uvn.text" = "shown if user has never  opened app before - this is player view with swipe left to skip though 4 movies. skip will take user to evafeedVC - set flag in app for user logged in + user seen intro";
+
+/* Class = "IBUILabel"; text = "email@email.com"; ObjectID = "bAY-95-erZ"; */
+"bAY-95-erZ.text" = "email@email.com";
+
+/* Class = "IBUIButton"; normalTitle = "#trendingtag"; ObjectID = "bRU-lI-AMe"; */
+"bRU-lI-AMe.normalTitle" = "#trendingtag";
+
+/* Class = "IBUIButton"; normalTitle = "signout"; ObjectID = "dCb-o9-cWJ"; */
+"dCb-o9-cWJ.normalTitle" = "signout";
+
+/* Class = "IBUIButton"; normalTitle = "#trendingtag"; ObjectID = "dFj-cY-AjT"; */
+"dFj-cY-AjT.normalTitle" = "#trendingtag";
+
+/* Class = "IBUIButton"; normalTitle = "notifications"; ObjectID = "dlU-Aa-fSX"; */
+"dlU-Aa-fSX.normalTitle" = "notifications";
+
+/* Class = "IBUILabel"; text = "End of feed promotional channels and users - This is shown as a overlay on evafeed player page "; ObjectID = "e3Q-eL-spU"; */
+"e3Q-eL-spU.text" = "End of feed promotional channels and users - This is shown as a overlay on evafeed player page ";
+
+/* Class = "IBUITextField"; placeholder = "@username"; ObjectID = "e9j-w8-dnT"; */
+"e9j-w8-dnT.placeholder" = "@username";
+
+/* Class = "IBUIButton"; normalTitle = "settings"; ObjectID = "eM8-pW-efk"; */
+"eM8-pW-efk.normalTitle" = "settings";
+
+/* Class = "IBUIButton"; normalTitle = "cancel"; ObjectID = "f9g-Wm-sqU"; */
+"f9g-Wm-sqU.normalTitle" = "cancel";
+
+/* Class = "IBUILabel"; text = "facebook registration select username"; ObjectID = "gdc-oA-UdT"; */
+"gdc-oA-UdT.text" = "facebook registration select username";
+
+/* Class = "IBUILabel"; text = "Notes! select profile image from camera roll or capture new image. Final image for upload 640x640"; ObjectID = "gdu-UF-aOw"; */
+"gdu-UF-aOw.text" = "Notes! select profile image from camera roll or capture new image. Final image for upload 640x640";
+
+/* Class = "IBUIButton"; normalTitle = "next"; ObjectID = "gpO-yK-U6X"; */
+"gpO-yK-U6X.normalTitle" = "next";
+
+/* Class = "IBUITextField"; placeholder = "add comment"; ObjectID = "gvJ-sv-GnT"; */
+"gvJ-sv-GnT.placeholder" = "add comment";
+
+/* Class = "IBUILabel"; text = "eva registration"; ObjectID = "jTp-YK-NZL"; */
+"jTp-YK-NZL.text" = "eva registration";
+
+/* Class = "IBUIButton"; normalTitle = "done"; ObjectID = "kgx-Ib-Fea"; */
+"kgx-Ib-Fea.normalTitle" = "done";
+
+/* Class = "IBUIButton"; normalTitle = "done"; ObjectID = "kz7-s2-yfL"; */
+"kz7-s2-yfL.normalTitle" = "done";
+
+/* Class = "IBUINavigationItem"; title = "Users"; ObjectID = "lXx-mV-mNE"; */
+"lXx-mV-mNE.title" = "Users";
+
+/* Class = "IBUIButton"; normalTitle = "update"; ObjectID = "llc-Oo-CEA"; */
+"llc-Oo-CEA.normalTitle" = "update";
+
+/* Class = "IBUILabel"; text = "17 likes"; ObjectID = "lpu-aH-NFm"; */
+"lpu-aH-NFm.text" = "17 likes";
+
+/* Class = "IBUIButton"; normalTitle = "skip"; ObjectID = "mPl-AV-qiv"; */
+"mPl-AV-qiv.normalTitle" = "skip";
+
+/* Class = "IBUIButton"; normalTitle = "#trendinguser"; ObjectID = "mfa-fe-Dll"; */
+"mfa-fe-Dll.normalTitle" = "#trendinguser";
+
+/* Class = "IBUINavigationItem"; title = "Dynamic Title"; ObjectID = "mpg-Kw-31d"; */
+"mpg-Kw-31d.title" = "Dynamic Title";
+
+/* Class = "IBUIButton"; normalTitle = "edit profile image"; ObjectID = "mrE-2J-8eA"; */
+"mrE-2J-8eA.normalTitle" = "edit profile image";
+
+/* Class = "IBUIButton"; normalTitle = "edit"; ObjectID = "n5D-2u-E9t"; */
+"n5D-2u-E9t.normalTitle" = "edit";
+
+/* Class = "IBUILabel"; text = "followers 23     following 23   likes 23   videos 12"; ObjectID = "ndR-vJ-6ie"; */
+"ndR-vJ-6ie.text" = "followers 23     following 23   likes 23   videos 12";
+
+/* Class = "IBUIButton"; normalTitle = "edit profile"; ObjectID = "oaB-DN-z5B"; */
+"oaB-DN-z5B.normalTitle" = "edit profile";
+
+/* Class = "IBUIButton"; normalTitle = "back"; ObjectID = "obU-S6-fHM"; */
+"obU-S6-fHM.normalTitle" = "back";
+
+/* Class = "IBUIButton"; normalTitle = "Update"; ObjectID = "qVh-h7-L2h"; */
+"qVh-h7-L2h.normalTitle" = "Update";
+
+/* Class = "IBUIButton"; normalTitle = "#trendingtag"; ObjectID = "qm2-0c-RWC"; */
+"qm2-0c-RWC.normalTitle" = "#trendingtag";
+
+/* Class = "IBUIButton"; normalTitle = "Back"; ObjectID = "sVY-Q6-jGJ"; */
+"sVY-Q6-jGJ.normalTitle" = "Back";
+
+/* Class = "IBUILabel"; text = "Pre-load eva feed daily"; ObjectID = "sa9-Nk-xNG"; */
+"sa9-Nk-xNG.text" = "Pre-load eva feed daily";
+
+/* Class = "IBUILabel"; text = "signup with eva"; ObjectID = "sef-4m-790"; */
+"sef-4m-790.text" = "signup with eva";
+
+/* Class = "IBUILabel"; text = "onboarding (first touch)"; ObjectID = "tWU-JP-zuV"; */
+"tWU-JP-zuV.text" = "onboarding (first touch)";
+
+/* Class = "IBUIButton"; normalTitle = "#trendingtag"; ObjectID = "uzw-iv-ds4"; */
+"uzw-iv-ds4.normalTitle" = "#trendingtag";
+
+/* Class = "IBUILabel"; text = "TRENDING TAGS"; ObjectID = "v9f-fH-J8I"; */
+"v9f-fH-J8I.text" = "TRENDING TAGS";
+
+/* Class = "IBUISegmentedControl"; vCZ-nV-Ono.segmentTitles[0] = "Help"; ObjectID = "vCZ-nV-Ono"; */
+"vCZ-nV-Ono.segmentTitles[0]" = "Help";
+
+/* Class = "IBUISegmentedControl"; vCZ-nV-Ono.segmentTitles[1] = "T&C"; ObjectID = "vCZ-nV-Ono"; */
+"vCZ-nV-Ono.segmentTitles[1]" = "T&C";
+
+/* Class = "IBUISegmentedControl"; vCZ-nV-Ono.segmentTitles[2] = "Contact"; ObjectID = "vCZ-nV-Ono"; */
+"vCZ-nV-Ono.segmentTitles[2]" = "Contact";
+
+/* Class = "IBUILabel"; text = "231 views"; ObjectID = "vic-gm-L4h"; */
+"vic-gm-L4h.text" = "231 views";
+
+/* Class = "IBUILabel"; text = "@jenswikholm"; ObjectID = "wOK-qg-Gum"; */
+"wOK-qg-Gum.text" = "@jenswikholm";
+
+/* Class = "IBUILabel"; text = "Push Notifications"; ObjectID = "yTp-vB-k1I"; */
+"yTp-vB-k1I.text" = "Push Notifications";
+
+/* Class = "IBUITextField"; placeholder = "select username"; ObjectID = "zBn-7M-kGt"; */
+"zBn-7M-kGt.placeholder" = "select username";

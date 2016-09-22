@@ -1,0 +1,10 @@
+Mobile App Name: eva 
+Type: iOS 
+Destination URL: https://itunes.apple.com/app/apple-store/id924859907?pt=53423802&ct=tune&mt=8 
+Advertiser ID:  189360 
+App ID:  106218 
+Package Name: co.ios.eva 
+Store App ID: 924859907 
+Conversion Key: 6208efdccd2a61d07f50e2722b68c94f 
+------------------- 
+Need more help? Please visit our support site: http://support.mobileapptracking.com/

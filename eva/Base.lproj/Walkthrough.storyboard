@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9060" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9051"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <mutableArray key="Ubuntu-R.ttf">
+            <string>Ubuntu</string>
+        </mutableArray>
+    </customFonts>
+    <scenes>
+        <!--Walkthrough View Controller-->
+        <scene sceneID="G0F-cH-IHX">
+            <objects>
+                <viewController storyboardIdentifier="walk" id="twG-g4-ly6" customClass="BWWalkthroughViewController" customModule="eva" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="3xH-gf-25x">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <pageControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" numberOfPages="3" id="9ml-sj-QQv" userLabel="pageControl">
+                                <rect key="frame" x="141" y="525" width="39" height="37"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES"/>
+                            </pageControl>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="o7t-Be-FEx" userLabel="closeButton">
+                                <rect key="frame" x="255" y="525" width="54" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMinY="YES"/>
+                                <fontDescription key="fontDescription" name="Ubuntu" family="Ubuntu" pointSize="13"/>
+                                <state key="normal" title="skip">
+                                    <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="close:" destination="twG-g4-ly6" eventType="touchUpInside" id="SPC-UK-i51"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="yhF-yp-gwp" userLabel="nextButton">
+                                <rect key="frame" x="280" y="299" width="40" height="40"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" image="rightArrow"/>
+                                <connections>
+                                    <action selector="nextPage" destination="twG-g4-ly6" eventType="touchUpInside" id="SsV-MB-hGc"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="MPP-Sj-Xbo" userLabel="prevButton">
+                                <rect key="frame" x="0.0" y="299" width="40" height="40"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" image="leftArrow"/>
+                                <connections>
+                                    <action selector="prevPage" destination="twG-g4-ly6" eventType="touchUpInside" id="fXY-ZM-8zN"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                    <connections>
+                        <outlet property="closeButton" destination="o7t-Be-FEx" id="FAo-j1-ahU"/>
+                        <outlet property="nextButton" destination="yhF-yp-gwp" id="P6m-B9-Naw"/>
+                        <outlet property="pageControl" destination="9ml-sj-QQv" id="cF0-ro-YNu"/>
+                        <outlet property="prevButton" destination="MPP-Sj-Xbo" id="BQc-yY-wjq"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Btn-NU-dsw" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-442" y="263"/>
+        </scene>
+        <!--Walkthrough Page View Controller-->
+        <scene sceneID="TGe-uP-t0G">
+            <objects>
+                <viewController storyboardIdentifier="walk1" id="8AH-Io-8a7" customClass="BWWalkthroughPageViewController" customModule="eva" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="GrG-Vu-Jga">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="walk1" id="cg6-Lf-uqa">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="fZP-FF-idS" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-72" y="263"/>
+        </scene>
+        <!--Walkthrough Page View Controller-->
+        <scene sceneID="JTc-j6-cVj">
+            <objects>
+                <viewController storyboardIdentifier="walk2" id="ZSh-FL-jJz" customClass="BWWalkthroughPageViewController" customModule="eva" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="xXH-Lx-DGj">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="walk2" id="8RX-Vf-Q3b">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="QRB-xO-MKe" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="319" y="263"/>
+        </scene>
+        <!--Walkthrough Page View Controller-->
+        <scene sceneID="bBL-6A-bfq">
+            <objects>
+                <viewController storyboardIdentifier="walk3" id="eFL-zQ-yCu" customClass="BWWalkthroughPageViewController" customModule="eva" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="zzk-Jf-A3z">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="walk4" id="CwW-RB-V9j">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="t8J-ev-jEN" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="560" y="936"/>
+        </scene>
+        <!--Walkthrough Page View Controller-->
+        <scene sceneID="hXm-Mt-Q7j">
+            <objects>
+                <viewController storyboardIdentifier="walk4" id="zhN-Vg-R3D" customClass="BWWalkthroughPageViewController" customModule="eva" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="O69-YE-310">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="walk3" id="Obh-e2-BCq">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="foF-BO-0dw" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="78" y="936"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="leftArrow" width="100" height="100"/>
+        <image name="rightArrow" width="100" height="100"/>
+        <image name="walk1" width="1080" height="1920"/>
+        <image name="walk2" width="1080" height="1920"/>
+        <image name="walk3" width="1080" height="1920"/>
+        <image name="walk4" width="1080" height="1920"/>
+    </resources>
+</document>

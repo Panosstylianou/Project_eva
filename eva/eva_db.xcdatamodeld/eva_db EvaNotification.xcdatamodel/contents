@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="7701" systemVersion="14A379a" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="EvaNotification" representedClassName="eva.EvaNotification" syncable="YES">
+        <attribute name="createdAt" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="notificationType" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UploadEntry" representedClassName="eva.UploadEntry" syncable="YES">
+        <attribute name="assetId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bytesSent" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="bytesTotal" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="edlId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mediaId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="obfusId" optional="YES" attributeType="String" syncable="YES"/>
+        <compoundIndexes>
+            <compoundIndex>
+                <index value="edlId"/>
+                <index value="assetId"/>
+            </compoundIndex>
+        </compoundIndexes>
+    </entity>
+    <elements>
+        <element name="EvaNotification" positionX="-45" positionY="45" width="128" height="75"/>
+        <element name="UploadEntry" positionX="-63" positionY="-18" width="128" height="135"/>
+    </elements>
+</model>

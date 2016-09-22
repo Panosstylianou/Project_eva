@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11232" systemVersion="15G1004" minimumToolsVersion="Xcode 4.3" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="ApprovedAsset" representedClassName=".ApprovedAsset" syncable="YES">
+        <attribute name="approved" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="assetId" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UploadEntry" representedClassName="eva.UploadEntry" syncable="YES">
+        <attribute name="assetId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bytesSent" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="bytesTotal" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="edlId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mediaId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="obfusId" optional="YES" attributeType="String" syncable="YES"/>
+        <compoundIndexes>
+            <compoundIndex>
+                <index value="edlId"/>
+                <index value="assetId"/>
+            </compoundIndex>
+        </compoundIndexes>
+    </entity>
+    <elements>
+        <element name="ApprovedAsset" positionX="-54" positionY="27" width="128" height="75"/>
+        <element name="UploadEntry" positionX="-63" positionY="-18" width="128" height="135"/>
+    </elements>
+</model>
